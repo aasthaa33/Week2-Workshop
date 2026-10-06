@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\bin\Debug\net10.0\Week1.exe
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\bin\Debug\net10.0\Week1.deps.json
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\bin\Debug\net10.0\Week1.runtimeconfig.json
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\bin\Debug\net10.0\Week1.dll
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\bin\Debug\net10.0\Week1.pdb
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.AssemblyInfo.cs
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.dll
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\refint\Week1.dll
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.pdb
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.genruntimeconfig.cache
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\ref\Week1.dll
+C:\Users\Acer\Documents\IIC\Year 3\Application Development\Week1\obj\Debug\net10.0\Week1.csproj.Up2Date
